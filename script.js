@@ -14,21 +14,18 @@ console.log(Time)
 console.log(Number)
 
 
-const noun = document.getElementById("noun").value
-const verb = document.getElementById("verb").value
-const adjective = document.getElementById("adjective").value
-const place = document.getElementById("place").value
+
 
 
 
 //start of story\\
 
-const myStory = `Deep in the heart of ${Place}, a brave ${Noun} set out on an epic side quest 
+let myStory = `Deep in the heart of ${Place}, a brave ${Noun} set out on an epic side quest 
 before ${Place}. Armed with a ${Adjective} spirit and an unshakable ${Adjective}, 
 the ${Noun} had to ${Verb} through ${Adjective} landscapes, face ${Adjective}
- challenges and uncover the secrets hidden within ${Place}...`
+ challenges and uncover the secrets hidden within ${Place}`
+
+console.log(myStory);
 
 
-
-
-document.getElementById('story').innerHTML = myStory
+document.getElementById('myStory').innerHTML = myStory
