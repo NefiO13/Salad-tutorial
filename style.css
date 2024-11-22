@@ -1,5 +1,11 @@
 body{
     text-align: center;
+    margin: 0;
+    background-image: url('imgs/egypt-anubis-mummy-i70f35wseaaqa6ku.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
 }
 
  .container {
@@ -18,15 +24,22 @@ body{
    
      border-radius: 10px;
 
-     text: white;
  }
 
  .card-body {
      padding: 20px;
-     background-image: url('your-image.jpg');
+ 
  }
 
  .myStory{
     background-color: rgba(0, 0, 0, 0.5);
     padding: 10px;
  }
+
+h1{
+    font-family: "exocet", sans-serif;
+        font-weight: 900;
+        font-size: 200px;
+        font-style: normal;
+        color:rgb(224, 200, 90);
+}
