@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+ .container {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ header {
+     margin-top: 20px;
+  
+ }
+
+ .card {
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   
+     border-radius: 10px;
+
+     text: white;
+ }
+
+ .card-body {
+     padding: 20px;
+     background-image: url('your-image.jpg');
+ }
+
+ .myStory{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+ }
