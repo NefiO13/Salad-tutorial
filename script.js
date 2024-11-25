@@ -23,7 +23,9 @@ console.log(Number)
 let myStory = `Deep in the heart of ${Place}, a brave ${Noun} set out on an epic side quest 
 before ${Place}. Armed with a ${Adjective} spirit and an unshakable ${Adjective}, 
 the ${Noun} had to ${Verb} through ${Adjective} landscapes, face ${Adjective}
- challenges and uncover the secrets hidden within ${Place}`
+ challenges and uncover the secrets hidden within. In the Pyramids of ${Place}, in the deep tombs of ${Noun}, 
+ ${Noun} finds ancient treasure that is being protected by ${Noun}. Will ${Noun} be able to
+ get the treasure without perishing??`
 
 console.log(myStory);
 
