@@ -38,9 +38,13 @@ body{
 
 h1{
     font-family: "exocet", sans-serif;
-        font-weight: 900;
+        font-weight: 800;
         font-size: 200px;
         font-style: normal;
         color:rgb(224, 200, 90);
 }
 
+p{
+    font-weight: 900;
+    font-size: 30px;
+}
