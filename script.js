@@ -20,11 +20,11 @@ console.log(Number)
 
 //start of story\\
 
-let myStory = `Deep in the heart of ${Place}, a brave ${Noun} set out on an epic side quest 
-before ${Place}. Armed with a ${Adjective} spirit and an unshakable ${Adjective}, 
-the ${Noun} had to ${Verb} through ${Adjective} landscapes, face ${Adjective}
- challenges and uncover the secrets hidden within. In the Pyramids of ${Place}, in the deep tombs of ${Noun}, 
- ${Noun} finds ancient treasure that is being protected by ${Noun}. Will ${Noun} be able to
+let myStory = `Deep in the heart of <span class="${Place}"></span>, a brave <span class="${Noun}"></span> set out on an epic side quest 
+before <span class="${Place}"></span>. Armed with a <span class="${Adjective}"></span> spirit and an unshakable <span class="${Adjective}"></span>, 
+the <span class="${Noun}"></span> had to <span class="${Verb}"></span> through <span class="${Adjective}"></span> landscapes, face <span class="${Adjective}"></span>
+ challenges and uncover the secrets hidden within. In the Pyramids of <span class="${Place}"></span>, in the deep tombs of <span class="${Noun}></span>, 
+ <span class="${Noun}"></span> finds ancient treasure that is being protected by <span class="${Noun}"></span>. Will <span class="${Noun}"></span> be able to
  get the treasure without perishing??`
 
 console.log(myStory);

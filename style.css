@@ -48,3 +48,22 @@ p{
     font-weight: 900;
     font-size: 30px;
 }
+
+.Place {
+    color: blue;
+    font-weight: bold;
+}
+
+.Noun {
+    color: green;
+    font-style: italic;
+}
+
+.Verb {
+    color: red;
+    text-decoration: underline;
+}
+
+.Adjective {
+    color: orange;
+}
